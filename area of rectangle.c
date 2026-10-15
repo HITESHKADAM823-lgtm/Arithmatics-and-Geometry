@@ -11,6 +11,5 @@ void main() {
     area = length * width;
     printf("The total area is: %.2f\n", area);
 
-    getch();
 }
 
